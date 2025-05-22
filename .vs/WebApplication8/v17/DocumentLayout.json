@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\source\\repos\\WebApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|c:\\users\\crist\\source\\repos\\webapplication8\\webapplication8\\pages\\cesar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\pages\\cesar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|c:\\users\\crist\\source\\repos\\webapplication8\\webapplication8\\pages\\imc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\pages\\imc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|c:\\users\\crist\\source\\repos\\webapplication8\\webapplication8\\pages\\estadisticas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\pages\\estadisticas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|c:\\users\\crist\\source\\repos\\webapplication8\\webapplication8\\pages\\binomial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\pages\\binomial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|c:\\users\\crist\\source\\repos\\webapplication8\\webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|c:\\users\\crist\\source\\repos\\webapplication8\\webapplication8\\pages\\imc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\pages\\imc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|c:\\users\\crist\\source\\repos\\webapplication8\\webapplication8\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|c:\\users\\crist\\source\\repos\\webapplication8\\webapplication8\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FE6E45-D78A-4D81-A0F1-1BAC487B2637}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Binomial.cshtml",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Binomial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Pages\\Binomial.cshtml",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Binomial.cshtml",
+              "RelativeToolTip": "WebApplication8\\Pages\\Binomial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T18:57:46.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cesar.cshtml",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Cesar.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Pages\\Cesar.cshtml",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Cesar.cshtml",
+              "RelativeToolTip": "WebApplication8\\Pages\\Cesar.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T18:56:59.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estadisticas.cshtml",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Estadisticas.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Pages\\Estadisticas.cshtml",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Estadisticas.cshtml",
+              "RelativeToolTip": "WebApplication8\\Pages\\Estadisticas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T18:55:17.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMC.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\IMC.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Pages\\IMC.cshtml.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\IMC.cshtml.cs",
+              "RelativeToolTip": "WebApplication8\\Pages\\IMC.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:51:38.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMC.cshtml",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\IMC.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Pages\\IMC.cshtml",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\IMC.cshtml",
+              "RelativeToolTip": "WebApplication8\\Pages\\IMC.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T18:51:32.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeToolTip": "WebApplication8\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:27:22.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "WebApplication8\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:26:31.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\WebApplication8\\WebApplication8\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebApplication8\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T18:26:28.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

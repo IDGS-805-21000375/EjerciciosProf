@@ -1,0 +1,104 @@
+﻿@page
+@model Ejercicios_Razor_Pages.Pages.EstadisticasModel
+@{
+    ViewData["Title"] = "Estadísticas de un Arreglo";
+}
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f7f9fb;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .container {
+        margin-top: 50px;
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+        max-width: 700px;
+        width: 90%;
+    }
+
+    h1 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 30px;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    button {
+        background-color: #28a745;
+        color: white;
+        padding: 12px 24px;
+        border: none;
+        border-radius: 6px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: #218838;
+        }
+
+    .resultado {
+        margin-top: 20px;
+    }
+
+        .resultado h2,
+        .resultado h3 {
+            margin-bottom: 5px;
+            color: #444;
+        }
+
+        .resultado p {
+            margin-bottom: 15px;
+            font-size: 16px;
+            color: #555;
+            background-color: #f1f3f5;
+            padding: 10px;
+            border-radius: 8px;
+            word-wrap: break-word;
+        }
+</style>
+
+<div class="container">
+    <h1>Análisis de 20 Números Aleatorios</h1>
+
+    <form method="post">
+        <button type="submit">Generar Números y Calcular</button>
+    </form>
+
+    @if (Model.Numeros != null)
+    {
+        <div class="resultado">
+            <h2>Arreglo Aleatorio:</h2>
+            <p>@string.Join(" ", Model.Numeros)</p>
+
+            <h2>Arreglo Ordenado:</h2>
+            <p>@string.Join(" ", Model.NumerosOrdenados)</p>
+
+            <h3>Suma:</h3>
+            <p>@Model.Suma</p>
+
+            <h3>Promedio:</h3>
+            <p>@Model.Promedio.ToString("0.00")</p>
+
+            <h3>Moda:</h3>
+            <p>@string.Join(", ", Model.Moda)</p>
+
+            <h3>Mediana:</h3>
+            <p>@Model.Mediana</p>
+        </div>
+    }
+</div>
